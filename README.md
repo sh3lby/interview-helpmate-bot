@@ -9,10 +9,10 @@
 
 На сервере в консоле
 ```
-pm2 index.js stop
+pm2 stop index.js
 ```
 ```
-pm2 index.js delete
+pm2 delete index.js
 ```
 После этого подтянуть изменения на сервер
 
