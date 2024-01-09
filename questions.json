@@ -24,12 +24,12 @@
     },
     {
       "id": 3,
-      "text": "Какой тег находится в <html> определяет заголовок документа?",
+      "text": "Какой тег находится определяет заголовок документа?",
       "hasOptions": true,
       "options": [
-        { "id": 1, "text": "<head>", "isCorrect": true },
+        { "id": 1, "text": "<head>", "isCorrect": false },
         { "id": 2, "text": "<header>", "isCorrect": false },
-        { "id": 3, "text": "<title>", "isCorrect": false },
+        { "id": 3, "text": "<title>", "isCorrect": true },
         { "id": 4, "text": "<meta>", "isCorrect": false }
       ]
     },
