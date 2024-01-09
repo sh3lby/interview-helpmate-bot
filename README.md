@@ -17,7 +17,7 @@ pm2 delete index.js
 После этого подтянуть изменения на сервер
 
 ```
-git pull origin main
+git pull origin master
 ```
 И снова запустить бота
 ```
